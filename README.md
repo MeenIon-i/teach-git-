@@ -1,2 +1,2 @@
-# teach-git-
+# learn-git-
 learn git from p jame
